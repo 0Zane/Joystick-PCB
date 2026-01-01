@@ -1,5 +1,5 @@
 ![](https://github.com/0Zane/Joystick-PCB/blob/011055d61d87535438142510eefca3ea3db4d4cb/assets/3dviewPCBV1.png)
-#JOYSTICK PCB
+# JOYSTICK PCB
 
 The Joystick PCB is a prototype to facilitate the usage of joysticks along with classic devboards.
 
@@ -15,7 +15,7 @@ A pull-up resistor is used close to the push switch with a value of 10Kohms.
 This project is a beginner project so i don't recommend using the V1.0 since others professional PCBs are existing. (see *CONTEXT*)
 
 
-#CONTEXT
+# CONTEXT
 This project is my first project desinging a custom PCB to complete a task.
 
 First of all i got a joystick by breaking an old controller ( joystick RSF ) , and i wanted to use it with my ESP32.
@@ -32,7 +32,7 @@ Then i completed the first version of the PCB using [this footprint for the joys
 
 ![](https://github.com/0Zane/Joystick-PCB/blob/011055d61d87535438142510eefca3ea3db4d4cb/assets/PCBV1.png)
 
-#USED SOFTWARE
+# USED SOFTWARE
 [](https://img.shields.io/badge/KiCad-9.0-blue)
 
 
