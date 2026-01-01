@@ -33,7 +33,7 @@ Then i completed the first version of the PCB using [this footprint for the joys
 ![](https://github.com/0Zane/Joystick-PCB/blob/011055d61d87535438142510eefca3ea3db4d4cb/assets/PCBV1.png)
 
 # USED SOFTWARE
-[](https://img.shields.io/badge/KiCad-9.0-blue)
+![](https://img.shields.io/badge/KiCad-9.0-blue)
 
 
 
